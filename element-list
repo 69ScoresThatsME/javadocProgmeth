@@ -1,0 +1,13 @@
+tailFinder
+tailFinder.infra
+tailFinder.logic
+tailFinder.model.block.base
+tailFinder.model.block.passable
+tailFinder.model.block.solid
+tailFinder.model.contract
+tailFinder.model.map
+tailFinder.view.component
+tailFinder.view.game
+tailFinder.view.game.debug
+tailFinder.view.menu
+tailFinder.view.menu.button
